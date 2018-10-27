@@ -1,7 +1,6 @@
 date >> README.md
 echo >> README.md
 
-bash all_files.sh
 git add .
 
 git init
