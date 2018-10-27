@@ -1,6 +1,3 @@
-date >> README.md
-echo >> README.md
-
 git add .
 
 git init
