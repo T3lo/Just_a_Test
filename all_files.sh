@@ -6,5 +6,4 @@ traverse(){
 	done
 }
 
-traverse
 
