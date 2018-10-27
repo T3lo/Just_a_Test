@@ -1,0 +1,4 @@
+github_push.sh
+list_of_files.txt
+new_file.txt
+README.md
